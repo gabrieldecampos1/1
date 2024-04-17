@@ -1,0 +1,82 @@
+* {
+    margem : 0 ;
+    preenchimento : 0 ;
+    }
+    
+    .cabecalho {
+    cor de fundo : #424E61 ;
+    cor branca ;
+    exibição : flexível ;
+    justificar-conteúdo : espaço ao redor ;
+    alinhar itens : centro ;
+    preenchimento : 24px 0 ;
+    }
+    
+    .cabecalho-imagem {
+    largura : 20% ;
+    }
+    
+    .cabecalho-lista-item {
+    display : bloco embutido ;
+    margem : 0 16px ;
+    tamanho da fonte : 22px ;
+    }
+    
+    .escola-imagem {
+    largura : 25% ;
+    }
+    
+    corpo {
+    família de fontes : "Poppins" , sem serifa ;
+    }
+    
+    .escola {
+    imagem de fundo : gradiente linear ( #424E61 , #4EBFE9 );
+    cor branca ;
+    exibição : flexível ;
+    justificar-conteúdo : centro ;
+    alinhar itens : centro ;
+    preenchimento : 24px 0 ;
+    }
+    
+    .escola-dive-conteudo {
+    largura : 35% ;
+    }
+    
+    .escola-título {
+    preenchimento : 24px 0 ;
+    }
+    
+    .estudante-imagem {
+    largura : 120px ;
+    }
+    
+    .estudante-ícone {
+    largura : 24px ;
+    }
+    
+    .estudante-div {
+    alinhamento de texto : centro ;
+    }
+    
+    .estudante-título {
+    alinhamento de texto : centro ;
+    preenchimento : 50px 0 ;
+    }
+    
+    .estudante-todos {
+    exibição : grade ;
+    colunas de modelo de grade : 20% 20% 20% 20% 20% ;
+    }
+    
+    .rodape {
+    cor de fundo : preto ;
+    alinhamento de texto : centro ;
+    }
+    
+    .rodape-imagem {
+    altura : 60px ;
+    preenchimento : 12px 0 ;
+    }
+    
+    
